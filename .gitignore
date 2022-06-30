@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+# SFML binaries and headers
+SFML
+
+# TGUI
+TGUI
+
+# build folders and caches
+.cache
+.vscode
+
+build/*
